@@ -1,4 +1,4 @@
-# Fiscal
+# Fiscal-Takehome-Pipeline
 
 LLM-powered pipeline that reads 10 years of annual report PDFs for Adyen, Heineken,
 and SAP, extracts financial statement data, and serves a web UI that generates a
