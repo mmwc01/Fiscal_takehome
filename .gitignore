@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+
+# Project data — generated, not committed
+data/fiscal.db
+data/pdfs/
+data/
+
+# Generated output
+output/
+
+# Dev
+.env
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+.claude/
+OVERVIEW.txt
+data/pdfs/
+data/pdfs/
+output/*.pdf
